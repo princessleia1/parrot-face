@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "224f6c76-9136-4a44-b0f1-d114acfd65ac",
+    "appType": "clockface",
+    "appDisplayName": "Parrot-Face",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#9C27B0",
+    "requestedPermissions": [
+      "access_user_profile",
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Parrot-Face"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}

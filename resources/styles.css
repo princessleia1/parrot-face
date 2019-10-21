@@ -1,0 +1,43 @@
+#page {
+  fill: black;
+}
+
+#bannerLabel {
+  font-size: 30;
+  font-family: Fabrikat-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 6%;
+  y: 13%;
+  fill: #9C27B0;
+}
+
+#batteryLabel {
+  font-size: 30;
+  font-family: Seville-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 87%;
+  y: 13%;
+  fill: #9C27B0;
+}
+
+#hrLabel {
+  font-size: 30;
+  font-family: Seville-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 18%;
+  y: 95%;
+  fill: fb-cyan;
+}
+
+#stepsLabel {
+  font-size: 30;
+  font-family: Seville-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 85%;
+  y: 95%;
+  fill: fb-cyan;
+}
