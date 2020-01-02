@@ -11,15 +11,18 @@
 <p align="middle">
 <img width="80" height="80" src=./resources/lightweight.png>
 </p>
+
 ## Devices
 **Parrot-Face** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), and Versa Lite (300x300).
+
 <p align="left">
   <img width="175" height="175" src=./screenshots/parrot-face-versa.png>
   <img width="175" height="175" src=./screenshots/parrot-face-versa-2.png>
   <img width="175" height="175" src=./screenshots/parrot-face-versa-3.png>
   <img width="175" height="175" src=./screenshots/parrot-face-versa-1.png>
 </p>
-**Parrot-Face** is currently not compatible with the new Versa 2 Device, SDK 4.1.
+
+**Parrot-Face** *is currently not compatible with the new Versa 2 Device, SDK 4.1.*
 
 ## Permissions
 **Parrot-Face** requires access to Fitbit Device **Activity**, **Heart Rate**, **User Profile**.
