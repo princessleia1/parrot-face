@@ -8,6 +8,10 @@
 - Heart Rate is displayed in BPM. Measurement is taken via the HeartRateSensor API.
 - Battery percentage (%) is displayed via the Power API.
 
+<p align="middle">
+<img width="80" height="80" src=./resources/lightweight.png>
+</p>
+
 ## Devices
 **Parrot-Face** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), and Versa Lite (300x300).
 
@@ -24,9 +28,6 @@
 
 ## Attribution
 **Parrot-Face** [Background](https://github.com/princessleia1/parrot-face/blob/master/resources/bg-348x250.png) Image Attribution [Macaw](https://github.com/ParrotSec/parrotsec.org/blob/master/img/macaw.jpg) by [Parrot OS](https://parrotlinux.org/).
-<p align="middle">
-<img width="80" height="80" src=./resources/lightweight.png>
-</p>
 
 ## License
 **Parrot-Face** is licensed under the terms of the [GPL-3.0 License](/LICENSE). 
