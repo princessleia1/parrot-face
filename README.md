@@ -1,5 +1,5 @@
 # Parrot-Face
-**Parrot-Face** is a colorful clock face for Fitbit OS inspired by the [Parrot OS](https://parrotlinux.org/) operating system theme.
+**Parrot-Face** is a colourful clock face for Fitbit OS inspired by the [Parrot Linux OS](https://parrotlinux.org/) operating system theme.
 **Parrot-Face** uses [Fitbit SDK V3.1.0](https://github.com/Fitbit). **Parrot-Face** is available for install from the [Fitbit Gallery](https://gallery.fitbit.com/details/224f6c76-9136-4a44-b0f1-d114acfd65ac).
 
 ## Features
@@ -17,8 +17,6 @@
   <img width="175" height="175" src=./screenshots/parrot-face-versa-3.png>
   <img width="175" height="175" src=./screenshots/parrot-face-versa-1.png>
 </p>
-
-**Parrot-Face** *is currently not compatible with the new Versa 2 Device, SDK 4.1.*
 
 ## Permissions
 **Parrot-Face** requires access to Fitbit Device **Activity**, **Heart Rate**, **User Profile**.
