@@ -3,7 +3,7 @@
 
 ## Features
 - Digital clock design with Parrot Linux OS 'Macaw' background.
-- Apply colour theme for the clock face 'Date', 'Day' and 'Time' via the Settings API.
+- Application of Colour Theme for the clock face 'Date', 'Day' and 'Time' via the Settings API.
 - Number of Steps taken today is displayed via the User-Activity API.
 - Heart Rate is displayed in BPM. Measurement is taken via the HeartRateSensor API.
 - Battery percentage (%) is displayed via the Power API.
