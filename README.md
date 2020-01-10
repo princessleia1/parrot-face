@@ -1,5 +1,5 @@
 # Parrot-Face
-**Parrot-Face** is a colourful clock face for Fitbit OS inspired by the [Parrot Linux OS](https://parrotlinux.org/) operating system theme.
+**Parrot-Face** is a colourful clock face for Fitbit OS inspired by the [Parrot Linux OS](https://parrotlinux.org/) theme.
 
 **Parrot-Face** uses [Fitbit SDK V3.1.0](https://github.com/Fitbit). 
 
