@@ -18,6 +18,9 @@
   <img width="175" height="175" src=./screenshots/parrot-face-versa-1.png>
 </p>
 
+## Compatibility
+**Parrot-Face** is currently not compatibility with the new Versa 2 Device, Fitbit OS SDK 4.1.
+
 ## Permissions
 **Parrot-Face** requires access to Fitbit Device **Activity**, **Heart Rate**, **User Profile**.
 
