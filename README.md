@@ -22,7 +22,3 @@
 
 ## License
 **Parrot-Face** is licensed under the terms of the [GPL-3.0 License](/LICENSE). 
-
-<p align="middle">
-<img width="80" height="80" src=./resources/lightweight.png>
-</p>
